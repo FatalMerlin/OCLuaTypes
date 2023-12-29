@@ -1,4 +1,12 @@
 /**
+ * Copyright (c) 2023, FatalMerlin
+ * All rights reserved.
+ *
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
  * Parses the OpenOS documentation and generates lua code.
  * Just paste it into the developer console in your browser on the desired page.
  * Example reference: https://ocdoc.cil.li/api:computer?s[]=computer
